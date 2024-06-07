@@ -1,4 +1,4 @@
-I am currently learning software engineering throught the bootcamp TripleTen.
+I am currently learning software engineering through the bootcamp TripleTen.
 I am hoping to land a job in the tech industry upon the completion of the course.
 So far, I have gained knowledge in HTML/CSS, Git, Github, VSCode, Figma, and Javascript.
 

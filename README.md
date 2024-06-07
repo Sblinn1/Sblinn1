@@ -17,9 +17,3 @@ Projects I have completed so far:
 [se_project_coffeeshop 2.zip](https://github.com/user-attachments/files/15741935/se_project_coffeeshop.2.zip)
 
 
-Get in touch with me:
-
-cell: 845-270-4130
-
-Email: smblinn1@gmail.com
-
